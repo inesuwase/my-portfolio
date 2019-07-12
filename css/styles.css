@@ -1,11 +1,33 @@
 h1{
     color: green;
     text-align: center;
-    padding: 300px;
+}
+h2{
+    color: brown;
+    text-align: center;
 }
 body{
-    background-image: url("https://miro.medium.com/max/3840/1*ee9Ji2ToUxeYfj3YUQ1xsA.jpeg")
-    background-repeat: no repeat;
+    background-image: url("https://miro.medium.com/max/3840/1*ee9Ji2ToUxeYfj3YUQ1xsA.jpeg");
+    background-repeat: no-repeat;
     background-size: cover;
-
 }
+img{
+    padding-left: 15px;
+    margin-right: 25px;
+    float: right;
+}
+h4{
+    color: blueviolet;
+}
+.row{
+    display : flex;
+    flex-direction : row;
+    justify-content:Space-between;
+  }
+  .column{
+  float : left;
+  text-align: center;
+   width: 33%;
+    margin: 10px;
+  padding : 50px;
+  }
