@@ -1,3 +1,11 @@
 h1{
     color: green;
+    text-align: center;
+    padding: 300px;
+}
+body{
+    background-image: url("https://miro.medium.com/max/3840/1*ee9Ji2ToUxeYfj3YUQ1xsA.jpeg")
+    background-repeat: no repeat;
+    background-size: cover;
+
 }
