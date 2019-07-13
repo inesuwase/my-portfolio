@@ -22,7 +22,7 @@ h4{
 }
 .row{
     display : flex;
-    flex-direction : row;
+    flex-direction : row-reverse;
     justify-content:Space-between;
   }
   .column{
@@ -33,5 +33,5 @@ h4{
   padding : 50px;
   }
   span{
-      color: hotpink;
+      color: peru;
   }
